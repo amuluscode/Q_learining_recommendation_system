@@ -1,0 +1,101 @@
+id,name,category,brand,price
+0,iPhone 15,Mobile,Apple,1200
+1,Samsung S24,Mobile,Samsung,1000
+2,MacBook Air,Laptop,Apple,1500
+3,Dell XPS 13,Laptop,Dell,1300
+4,Sony WH-1000XM5,Headphone,Sony,400
+5,Bose QC45,Headphone,Bose,350
+6,Canon EOS R10,Camera,Canon,1200
+7,Nikon Z30,Camera,Nikon,1100
+8,Apple Watch 9,Wearable,Apple,500
+9,Samsung Galaxy Watch,Wearable,Samsung,400
+10,Sony TV 55",TV,Sony,1000
+11,LG OLED TV,TV,LG,1200
+12,JBL Flip 6,Speaker,JBL,150
+13,Marshall Emberton,Speaker,Marshall,200
+14,GoPro Hero 12,Camera,GoPro,500
+15,HP Envy 14,Laptop,HP,1100
+16,Asus ROG Phone,Mobile,Asus,950
+17,Fitbit Charge 6,Wearable,Fitbit,200
+18,Beats Studio3,Headphone,Beats,300
+19,Xiaomi 13 Pro,Mobile,Xiaomi,800
+20,OnePlus 12,Mobile,OnePlus,850
+21,Realme GT 6,Mobile,Realme,700
+22,Acer Predator Helios,Laptop,Acer,1400
+23,Lenovo Legion 5,Laptop,Lenovo,1350
+24,Panasonic Lumix G9,Camera,Panasonic,1100
+25,Fujifilm X-S20,Camera,Fujifilm,1050
+26,Garmin Fenix 7,Wearable,Garmin,600
+27,Huawei Watch GT,Wearable,Huawei,300
+28,LG NanoCell 65",TV,LG,1300
+29,TCL 6-Series TV,TV,TCL,900
+30,Bang & Olufsen H95,Headphone,B&O,800
+31,Sennheiser Momentum 4,Headphone,Sennheiser,450
+32,Ultimate Ears Boom 3,Speaker,UE,180
+33,Sony SRS-XB43,Speaker,Sony,220
+34,MSI Stealth 16,Laptop,MSI,1600
+35,Razer Blade 15,Laptop,Razer,1700
+36,Olympus OM-D E-M1,Camera,Olympus,1150
+37,Leica Q2,Camera,Leica,2000
+38,Fitbit Versa 4,Wearable,Fitbit,280
+39,Amazfit GTR 4,Wearable,Amazfit,250
+40,Philips OLED TV,TV,Philips,1250
+41,Hisense U8K TV,TV,Hisense,950
+42,Logitech G733,Headphone,Logitech,150
+43,Razer Kraken V3,Headphone,Razer,130
+44,Bose SoundLink Mini,Speaker,Bose,200
+45,Sony HT-G700 Soundbar,Speaker,Sony,500
+46,Dyson Zone,Headphone,Dyson,600
+47,Apple HomePod,Speaker,Apple,300
+48,Amazon Echo Studio,Speaker,Amazon,200
+49,Google Nest Audio,Speaker,Google,150
+50,Nikon Z50,Camera,Nikon,950
+51,Canon M50 Mark II,Camera,Canon,900
+52,Asus ZenBook 14,Laptop,Asus,1250
+53,Samsung Galaxy Book3,Laptop,Samsung,1300
+54,Xiaomi 12T Pro,Mobile,Xiaomi,750
+55,Motorola Edge 40,Mobile,Motorola,700
+56,Samsung Galaxy Buds2,Headphone,Samsung,150
+57,Apple AirPods Pro 2,Headphone,Apple,250
+58,Beats Fit Pro,Headphone,Beats,200
+59,Marshall Major IV,Headphone,Marshall,180
+60,OnePlus Buds Pro 2,Headphone,OnePlus,170
+61,Google Pixel 8,Mobile,Google,900
+62,Pixel Watch 2,Wearable,Google,400
+63,Honor Magic 6 Pro,Mobile,Honor,820
+64,Oppo Find X6 Pro,Mobile,Oppo,860
+65,Vivo X100 Pro,Mobile,Vivo,880
+66,Nokia XR21,Mobile,Nokia,600
+67,HP Spectre x360,Laptop,HP,1450
+68,Dell Inspiron 15,Laptop,Dell,1000
+69,Lenovo Yoga 9i,Laptop,Lenovo,1400
+70,Asus TUF Gaming 15,Laptop,Asus,1100
+71,Samsung Neo QLED 8K TV,TV,Samsung,2000
+72,LG C3 OLED TV,TV,LG,1800
+73,Hisense A7H TV,TV,Hisense,800
+74,Philips 4K TV,TV,Philips,950
+75,Roku Streambar,Speaker,Roku,150
+76,Sonos One SL,Speaker,Sonos,180
+77,Devialet Phantom II,Speaker,Devialet,2500
+78,Sonos Arc Soundbar,Speaker,Sonos,900
+79,Bowers & Wilkins PX7,Headphone,B&W,500
+80,Audeze LCD-2,Headphone,Audeze,1000
+81,AKG K371,Headphone,AKG,150
+82,Jabra Elite 85h,Headphone,Jabra,250
+83,Pioneer DJ HDJ-X10,Headphone,Pioneer,350
+84,Shure SRH1540,Headphone,Shure,450
+85,Grado SR325x,Headphone,Grado,300
+86,Edifier R1700BT,Speaker,Edifier,120
+87,Klipsch The Fives,Speaker,Klipsch,600
+88,Creative Pebble Plus,Speaker,Creative,70
+89,Bose 700 Headphone,Headphone,Bose,380
+90,Beats Solo Pro,Headphone,Beats,250
+91,JLab Epic Air,Headphone,JLab,100
+92,Nothing Ear (2),Headphone,Nothing,150
+93,Samsung Galaxy Tab S9,Tablet,Samsung,900
+94,Apple iPad Air,Tablet,Apple,800
+95,Lenovo Tab P12,Tablet,Lenovo,600
+96,Xiaomi Pad 6,Tablet,Xiaomi,450
+97,Amazon Fire HD 10,Tablet,Amazon,300
+98,Realme Pad X,Tablet,Realme,400
+99,Oppo Pad 2,Tablet,Oppo,420
